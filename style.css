@@ -1,0 +1,54 @@
+.navbar img{
+    width: 30px;
+}
+body{
+    background-color: #eeebff;
+}
+.blog{
+    background-color: white;
+    border-radius: 10px;
+}
+.blog{
+    padding: 35px;
+}
+.link img{
+    width: 180px;
+}
+.top-player{
+    padding: 40px 90px;
+    border-radius: 8px;
+}
+.img-link{
+    padding: 10px;
+}
+.player img{
+    width: 60px;
+}
+.blog2{
+    background-color: white;
+    border-radius: 15px;
+}
+.blog2 {
+    padding: 40px 20px 15px 75px;
+}
+.bor{
+    width: 78px;
+    border-radius: 10px;
+    background-color: #ff4a5f5e;
+}
+@media only screen and (max-width:767px){
+    .top-player{
+        padding: 0px;
+        /* border-radius: 8px; */
+    }
+    .blog2{
+        background-color: white;
+        border-radius: 15px;
+    }
+    .blog2 {
+        padding: auto;
+    }
+    .short{
+        border: 1px solid lightgray;
+    }
+ }
